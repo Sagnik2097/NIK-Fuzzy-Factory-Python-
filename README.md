@@ -1,7 +1,4 @@
 # NIK-Fuzzy-Factory-Python-
-Thanks! Here's a refined version of your text that clearly states **Python** was used instead of SQL, with emphasis on **visualizations** for detailed analysis:
-
----
 
 **Welcome to the NIK Fuzzy Factory eCommerce Data Analysis Project – Powered by Python**
 
